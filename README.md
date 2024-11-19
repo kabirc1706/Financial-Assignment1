@@ -1,2 +1,2 @@
 # Financial-Assignment1
-Matlab Project
+MAD model
